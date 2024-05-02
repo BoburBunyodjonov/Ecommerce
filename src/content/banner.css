@@ -1,0 +1,15 @@
+.slick-arrow::before{
+    color: black;
+}
+.slick-prev{
+    position: absolute;
+    left: 20px;
+    top: 100px;
+    z-index: 100;
+}
+.slick-next{
+    position: absolute;
+    right: 20px;
+    top: 100px;
+    z-index: 100;
+}
